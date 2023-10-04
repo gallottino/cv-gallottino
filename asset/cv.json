@@ -1,0 +1,149 @@
+{
+    "firstName": "Davide",
+    "lastName": "Gallotti",
+    "jobTitle": "Software Engineer",
+    "fields": [
+        {
+            "label": "Email",
+            "value": "d.gallotti@outlook.it",
+            "type": "text",
+            "icon": "EmailIcon"
+        },
+        {
+            "label": "Residence",
+            "value": "Turin, Italy",
+            "type": "text",
+            "icon": "HomeIcon",
+            "url": "https://www.google.com/maps/place/Turin"
+        },
+        {
+            "label": "GitHub",
+            "value": "gallottino",
+            "type": "text",
+            "icon": "GithubIcon",
+            "url": "https://www.github.com/gallottino/"
+        },
+        {
+            "label": "LinkedIn",
+            "value": "davide-gallotti",
+            "type": "text",
+            "icon": "LinkedinIcon",
+            "url": "https://www.linkedin.com/in/davide-gallotti/"
+        }
+    ],
+    "education": [
+        {
+          "title": "Master Degree",
+          "icon": "PolitoIcon",
+          "subTitle": "Computer Engineer",
+          "where": "Politecnico di Torino",
+          "startDate": "03/2018",
+          "endDate": "07/2021",
+          "description": "Learning of technologies and methodologies used in the graphics and digital media industry, with a particular focus on programming, design, modeling, and image processing",
+          "bulletList": [
+            "Computational Geometry",
+            "Computer Graphics",
+            "Virtual Reality",
+            "3D Math",
+            "Computer Vision"
+          ],
+          "tecnologies": "C#, Unity, Python, Blender, Open GL, Open CV"
+        },
+        {
+          "title": "Bachelor Degree",
+          "icon": "PolitoIcon",
+          "subTitle": "Computer Engineer",
+          "where": "Politecnico di Torino",
+          "startDate": "09/2014",
+          "endDate": "03/2018",
+          "description": "Comprehensive understanding of the principles and applications of computer systems and software",
+          "bulletList": [
+            "Oriented-Object Programming",
+            "Software Engineer",
+            "Data Structures and Algorithms",
+            "Database Managment System",
+            "Computer Networks"
+          ],
+          "tecnologies": "C, C++,Time and Space complexity, Computer Architectures, Database, Computer Networks, "
+        }
+    ],
+    "experiences": [
+      {
+        "title": "Fiscozen",
+        "icon": "FiscozenIcon",
+        "subTitle": "Software Engineer",
+        "where": "Milan, Italy (Full Remote)",
+        "startDate": "07/2023",
+        "endDate": "Now",
+        "description": "Fiscozen is an online platform in Italy that provides simplified and automated tax preparation and filing services for individuals and small businesses.",
+        "bulletList": [
+          "Implementation of new features related to the world of customer's relation",
+          "Integration of backend functionalities with both data modelization and query optimization",
+          "Devolopment of new components in the frontend, both for customers and tax experts",
+          "Refactor of some olders part of the code base"
+        ],
+        "tecnologies": "Javascript, Vue, Python, Django, Docker, Git, Jira"
+      },
+      {
+        "title": "Freelancer",
+        "icon": "FreelanceIcon",
+        "subTitle": "Mobile Developer",
+        "where": "Full Remote",
+        "startDate": "03/2018",
+        "endDate": "Now",
+        "description": "As a freelance, i help companies to develop mobile or web apps used to interact with clients or to distribute a service",
+        "bulletList": [
+          "Audio guide with GPS integration and real-time audio streaming",
+          "Booking system for study rooms and coworking spaces with integration of payments",
+          "Puzzle game with riddles, integration of ads, Goole Play Service and Firebase"
+        ],
+        "tecnologies": "Flutter, React Native, Kotlin, Swift, iOS, Android, Figma,"
+      },
+      {
+        "title": "NFT Chain",
+        "icon": "NftChainIcon",
+        "subTitle": "Blockchain Engineer",
+        "where": "Zug, Switzerland (Full Remote)",
+        "startDate": "06/2022",
+        "endDate": "07/2023",
+        "description": "The aim of Nft Chain is to build a DevEx centric environment to simplify the development of dApps using a blockchain architecture",
+        "bulletList": [
+          "Development of a DSL capable of creating on-chain event triggers",
+          "Development of a web development tool capable of programming, visualizing, and explaining how a dApp works within the environment",
+          "Time-complexity optimization to reduce fees paid by users for interacting with the blockchain with focus on algorithms and batch transaction"
+        ],
+        "tecnologies": "Rust, Substrate, Typescript, React, IndexedDB, Neo4j, Cypher,  Docker, Git, Github Projects"
+      },
+      {
+        "title": "Amada ISE",
+        "icon": "AmadaIcon",
+        "subTitle": "Robotics Engineer",
+        "where": "Turin, Italy",
+        "startDate": "10/2021",
+        "endDate": "06/2022",
+        "description": "As part of the AMADA Global Software Development Department and thanks to over 30 years of experience, AMADA ISE's mission is to provide complete, high-quality, and innovative software products for digital manufacturing in the sheet metal sector using cutting edge technologies.",
+        "bulletList": [
+          "Implementation of algorithms for computational geometry calculation, taking into account the mechanical specifications of the robot",
+          "Conceptual, technical, and computational analysis of solutions and bug fixes focused on maintaining performance and avoiding regressions",
+          "Weekly release of new features or patches with very tight deadlines"
+        ],
+        "tecnologies": "C#, .NET, C++, Open GL, Python, Git, Microsoft Azure"
+      },
+      {
+        "title": "LINKS Foundation",
+        "icon": "LinksFoundationIcon",
+        "subTitle": "Software Researcher",
+        "where": "Turin, Italy",
+        "startDate": "09/2020",
+        "endDate": "10/2021",
+        "description": "LINKS Foundation operates at the heart of the Turin research and innovation ecosystem, in a solid international network. Its target is to contribute to technological and socio-economic progress through advanced processes of applied research.",
+        "bulletList": [
+          "European project ”ICT4CART” for the development of an infrastructure related to the world of connected vehicle communications",
+          "Development of highway interconnection modules, with data collection, analysis and transmission of information to the autonomous driving module through the CAN network",
+          "Development of an ESP32 module for capturing PROBE requests used to estimate the number of people present in a public space or enclosed area",
+          "Proof of concept for an integrated highway traffic simulator using SUMO"
+        ],
+        "tecnologies": "C++, Python, Docker, Raspberry Pi, OpenCV"
+      }
+    ]
+}
